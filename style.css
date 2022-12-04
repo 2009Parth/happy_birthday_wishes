@@ -1,0 +1,23 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    background-image: url(BirthdayImage.jpg);
+    border-style: ridge;
+    border-width: 10px;
+    border-color: rgba(44, 44, 209, 0.618);
+    border-radius: 20px;
+}
+#b1
+{
+    background-color: rgb(214, 154, 42);
+    color: whitesmoke;
+    font-size: 25px;
+    font-family: cursive;
+    border-radius: 7px;
+    padding: 10px;
+}
